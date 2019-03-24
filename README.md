@@ -12,3 +12,5 @@ dd0s.py <=> a simple "random request to disrupt services" python script that pac
 
 maldev.cpp <=> a skeleton cpp slave code that connects to its master with (any) requested info 
 
+malPy <=> the python counterpart of maldev but with much more features now, and hopefully soon
+
