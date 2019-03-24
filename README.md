@@ -7,6 +7,8 @@ beware of these "thingies" as some of them may not "work as expected", use at yo
 Current "thingies"
 
 astu-edu-et-news-grab <=> grab the (not so) latest news from the astu.edu.et website
+
 dd0s.py <=> a simple "random request to disrupt services" python script that packs quite a punch
+
 maldev.cpp <=> a skeleton cpp slave code that connects to its master with (any) requested info 
 
