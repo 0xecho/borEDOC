@@ -14,3 +14,4 @@ maldev.cpp <=> a skeleton cpp slave code that connects to its master with (any) 
 
 malPy <=> the python counterpart of maldev but with much more features now, and hopefully soon
 
+bot.py <=> Registration telegram bot used for CSEC-CPD
